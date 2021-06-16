@@ -12,7 +12,7 @@
 
 <br>Build an Angular and Spring MVC Web Application
 
-TUTORIALES y BLOGS
+## TUTORIALES y BLOGS
 <br> Js... https://dmitripavlutin.com/
 <br> ¿What is refactoring? https://www.bmc.com/blogs/code-refactoring-explained/#
 <br>(Eliminar repetidos)
@@ -40,28 +40,38 @@ TUTORIALES y BLOGS
 
 <br> https://javascript.plainenglish.io/make-your-ecommerce-app-10x-faster-by-creating-it-with-node-js-c96cfff79a4
 
-BLOG
+## Javascript Theory
 
-<br DIFERENCIAS ENTRE OBJECT Y MAP>
+<br> DIFERENCIAS ENTRE OBJECT Y MAP
 <br> https://medium.com/dailyjs/7-differences-between-objects-and-maps-in-javascript-bc901dfa9350
 <br> https://medium.com/dailyjshttps://medium.com/dailyjs
 
 <br> JAVASCRIPT ASINCRONO:
 <br> https://lemoncode.net/lemoncode-blog/2018/1/29/javascript-asincrono
 
-PERFILES DE EQUIPOS
-<br>https://www.digital55.com/
-<br>https://www.digital55.com/metodologia/ (...  design thinking)
-          <br> METODOLOGÍA: User Centric, Prototipado (design thinking), Metodologías Agiles (Agile: sprints, feedback), Equipos mixtos (un desarrollador en la oficina del                   cliente y otro en las nuestras)
+- JS es un lenguaje basado en PROTOTIPOS: https://medium.com/elblogdejavascript/prototipos-y-herencias-b04655d34772
+- OPERADORES: https://www.tektutorialshub.com/typescript/logical-operators-in-typescript/
+- BOOLEAN: https://fettblog.eu/boolean-in-javascript-and-typescript/
 
-PERFILES INDIVIDUALES
+- PROMISE, promiseAll https://blog.logrocket.com/understanding-promise-all-in-javascript/
 
-<br> Perfil de artista y desarrollador: Miguel Ángel Vázquez Vera
-<br> buscar: desarrollador from bbaa del anuncio (captura)
-<br> Osman Cea Ingeniero de Software: daslaf.dev
-<br> https://midu.dev/
+- API REST vs SOAP: https://www.redhat.com/es/topics/integration/whats-the-difference-between-soap-rest#:~:text=REST%20y%20SOAP%20son%20dos,de%20datos%20entre%20aplicaciones%20web.&text=La%20principal%20diferencia%20es%20que,y%20REST%20no%20lo%20es.
 
-BIBLIOGRAFIA
+    - - https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm
+    
+- REDUCE():  https://medium.com/@xadrijo/un-vistazo-a-la-funci%C3%B3n-reduce-en-javascript-f4459bc4e3aa
+
+- PATRONES DE DISEÑO: - STRATEGY: https://medium.com/dottech/patrones-de-dise%C3%B1o-patr%C3%B3n-estrategia-en-javascript-1daec8b5f57c
+
+- ALGORITMOS http://www.etnassoft.com/2017/03/24/algoritmos-de-ordenacion-en-javascript-revision-es6/
+
+- I/O EXPLICACION: https://lemoncode.net/lemoncode-blog/2018/1/29/javascript-asincrono
+
+- ENCONTRAR EN UN STRING: https://www.neoguias.com/como-encontrar-caracter-en-cadena-javascript/#Usando_el_metodo_includes
+
+
+
+## BIBLIOGRAFIA
 
 <br> (Best books...https://www.codeinwp.com/blog/best-javascript-books/)
 <br> High-Performance Browser Networking
