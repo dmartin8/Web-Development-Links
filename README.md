@@ -18,7 +18,7 @@
 
 - JAVASCRIPT ASINCRONO: https://lemoncode.net/lemoncode-blog/2018/1/29/javascript-asincrono
 - TIPS: https://github.com/nas5w/javascript-tips-and-tidbits
-- SKILLS:
+- SKILLS: https://hackernoon.com/12-javascript-concepts-that-will-level-up-your-development-skills-b37d16ad7104
 
 - JS es un lenguaje basado en PROTOTIPOS: https://medium.com/elblogdejavascript/prototipos-y-herencias-b04655d34772
 - OPERADORES: https://www.tektutorialshub.com/typescript/logical-operators-in-typescript/
