@@ -58,7 +58,7 @@
 <br>https://hackernoon.com/node-red-module-for-visual-nodejs-programming-mx3i34j2
 <br> https://javascript.plainenglish.io/make-your-ecommerce-app-10x-faster-by-creating-it-with-node-js-c96cfff79a4
 <br>  https://medium.com/dailyjshttps://medium.com/dailyjs
-
+<br> https://midu.dev/
 
 ## BIBLIOGRAFIA
 
