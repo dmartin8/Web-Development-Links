@@ -14,32 +14,32 @@
 
 ## Javascript Theory
 
-- DIFERENCIAS ENTRE OBJECT Y MAP: https://medium.com/dailyjs/7-differences-between-objects-and-maps-in-javascript-bc901dfa9350
+- DIFERENCIAS ENTRE **OBJECT** Y **MAP**: https://medium.com/dailyjs/7-differences-between-objects-and-maps-in-javascript-bc901dfa9350
 
-- JAVASCRIPT ASINCRONO: https://lemoncode.net/lemoncode-blog/2018/1/29/javascript-asincrono
+- JAVASCRIPT **ASINCRONO**: https://lemoncode.net/lemoncode-blog/2018/1/29/javascript-asincrono
 - TIPS: https://github.com/nas5w/javascript-tips-and-tidbits
-- SKILLS: https://hackernoon.com/12-javascript-concepts-that-will-level-up-your-development-skills-b37d16ad7104
+- **SKILLS**: https://hackernoon.com/12-javascript-concepts-that-will-level-up-your-development-skills-b37d16ad7104
 
-- JS es un lenguaje basado en PROTOTIPOS: https://medium.com/elblogdejavascript/prototipos-y-herencias-b04655d34772
-- OPERADORES: https://www.tektutorialshub.com/typescript/logical-operators-in-typescript/
+- JS es un lenguaje basado en **PROTOTIPOS**: https://medium.com/elblogdejavascript/prototipos-y-herencias-b04655d34772
+- **OPERADORES**: https://www.tektutorialshub.com/typescript/logical-operators-in-typescript/
 - BOOLEAN: https://fettblog.eu/boolean-in-javascript-and-typescript/
 
-- PROMISE, promiseAll https://blog.logrocket.com/understanding-promise-all-in-javascript/
+- **PROMISE**, promiseAll https://blog.logrocket.com/understanding-promise-all-in-javascript/
 
-- API REST vs SOAP: https://www.redhat.com/es/topics/integration/whats-the-difference-between-soap-rest#:~:text=REST%20y%20SOAP%20son%20dos,de%20datos%20entre%20aplicaciones%20web.&text=La%20principal%20diferencia%20es%20que,y%20REST%20no%20lo%20es.
+- API REST **vs** SOAP: https://www.redhat.com/es/topics/integration/whats-the-difference-between-soap-rest#:~:text=REST%20y%20SOAP%20son%20dos,de%20datos%20entre%20aplicaciones%20web.&text=La%20principal%20diferencia%20es%20que,y%20REST%20no%20lo%20es.
 
     - - https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm
     
-- REDUCE():  https://medium.com/@xadrijo/un-vistazo-a-la-funci%C3%B3n-reduce-en-javascript-f4459bc4e3aa
+- **REDUCE()**:  https://medium.com/@xadrijo/un-vistazo-a-la-funci%C3%B3n-reduce-en-javascript-f4459bc4e3aa
 
-- PATRONES DE DISEÑO: - STRATEGY: https://medium.com/dottech/patrones-de-dise%C3%B1o-patr%C3%B3n-estrategia-en-javascript-1daec8b5f57c
+- **PATRONES** DE DISEÑO: - STRATEGY: https://medium.com/dottech/patrones-de-dise%C3%B1o-patr%C3%B3n-estrategia-en-javascript-1daec8b5f57c
 
-- ALGORITMOS http://www.etnassoft.com/2017/03/24/algoritmos-de-ordenacion-en-javascript-revision-es6/
+- ALGORITMOS: http://www.etnassoft.com/2017/03/24/algoritmos-de-ordenacion-en-javascript-revision-es6/
 
-- I/O EXPLICACION: https://lemoncode.net/lemoncode-blog/2018/1/29/javascript-asincrono
+- **I/O** EXPLICACION: https://lemoncode.net/lemoncode-blog/2018/1/29/javascript-asincrono
 
 - ENCONTRAR EN UN STRING: https://www.neoguias.com/como-encontrar-caracter-en-cadena-javascript/#Usando_el_metodo_includes
-- Eliminar Repetidos: https://ajahne.github.io/blog/javascript/2020/02/04/how-to-remove-duplicates-from-an-array-in-javascript.html
+- Eliminar **Repetidos**: https://ajahne.github.io/blog/javascript/2020/02/04/how-to-remove-duplicates-from-an-array-in-javascript.html
 <br> https://medium.com/dailyjs/how-to-remove-array-duplicates-in-es6-5daa8789641c
 <br> https://dev.to/marinamosti/removing-duplicates-in-an-array-of-objects-in-js-with-sets-3fep
 
