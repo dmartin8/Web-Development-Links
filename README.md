@@ -9,17 +9,17 @@
 
 ## Javascript Theory
 
-- DIFERENCIAS ENTRE **OBJECT** Y **MAP**: https://medium.com/dailyjs/7-differences-between-objects-and-maps-in-javascript-bc901dfa9350
-
+- **SKILLS**: https://hackernoon.com/12-javascript-concepts-that-will-level-up-your-development-skills-b37d16ad7104
 - JAVASCRIPT **ASINCRONO**: https://lemoncode.net/lemoncode-blog/2018/1/29/javascript-asincrono
 - TIPS: https://github.com/nas5w/javascript-tips-and-tidbits
-- **SKILLS**: https://hackernoon.com/12-javascript-concepts-that-will-level-up-your-development-skills-b37d16ad7104
+
 
 - JS es un lenguaje basado en **PROTOTIPOS**: https://medium.com/elblogdejavascript/prototipos-y-herencias-b04655d34772
 - **OPERADORES**: https://www.tektutorialshub.com/typescript/logical-operators-in-typescript/
 - BOOLEAN: https://fettblog.eu/boolean-in-javascript-and-typescript/
 
 - **PROMISE**, promiseAll https://blog.logrocket.com/understanding-promise-all-in-javascript/
+- DIFERENCIAS ENTRE **OBJECT** Y **MAP**: https://medium.com/dailyjs/7-differences-between-objects-and-maps-in-javascript-bc901dfa9350
 
 - API REST **vs** SOAP: https://www.redhat.com/es/topics/integration/whats-the-difference-between-soap-rest#:~:text=REST%20y%20SOAP%20son%20dos,de%20datos%20entre%20aplicaciones%20web.&text=La%20principal%20diferencia%20es%20que,y%20REST%20no%20lo%20es.
 
@@ -33,7 +33,7 @@
 
 - **I/O** EXPLICACION: https://lemoncode.net/lemoncode-blog/2018/1/29/javascript-asincrono
 
-- ENCONTRAR EN UN STRING: https://www.neoguias.com/como-encontrar-caracter-en-cadena-javascript/#Usando_el_metodo_includes
+- Encontrar un STRING: https://www.neoguias.com/como-encontrar-caracter-en-cadena-javascript/#Usando_el_metodo_includes
 - Eliminar **Repetidos**: https://ajahne.github.io/blog/javascript/2020/02/04/how-to-remove-duplicates-from-an-array-in-javascript.html
 <br> https://medium.com/dailyjs/how-to-remove-array-duplicates-in-es6-5daa8789641c
 <br> https://dev.to/marinamosti/removing-duplicates-in-an-array-of-objects-in-js-with-sets-3fep
@@ -48,25 +48,15 @@
 
 ## BLOGS
 <br> Js... https://dmitripavlutin.com/
-
 <br> ¿What is refactoring? https://www.bmc.com/blogs/code-refactoring-explained/#
-
 <br> Monorrepos: https://medium.com/tauon/trabajando-con-monorepos-cf941c7d57dc
-
 <br> Mongo... https://www.slideshare.net/gootyfer/full-metal-mongo
-
 <br> Fast guide about web APIs: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs   
-
 <br> API Express MongoDb y TS: https://ichi.pro/es/como-disenar-api-rest-usando-express-mongodb-y-typescript-64732424837493
-
 <br> API REST: https://carlosazaustre.es/como-crear-una-api-rest-usando-node-js
-
 <br> ¿NodeJS? https://www.escuelajavascript.com/todo-lo-que-necesitas-saber-de-nodejs/
-
 <br>https://hackernoon.com/node-red-module-for-visual-nodejs-programming-mx3i34j2
-
 <br> https://javascript.plainenglish.io/make-your-ecommerce-app-10x-faster-by-creating-it-with-node-js-c96cfff79a4
-
 <br>  https://medium.com/dailyjshttps://medium.com/dailyjs
 
 
