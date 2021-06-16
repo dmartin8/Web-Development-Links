@@ -6,11 +6,6 @@
 <br> **[UX/UI Roadmap](https://github.com/togiberlin/ui-ux-designer-roadmap)**
 <br> Metodología _Lean UX_: https://www.xplora.eu/metodologia-lean-ux/ 
 <br> _Mobile App Web Stack_: https://medium.com/@zenorocha/the-technology-stack-i-used-to-build-my-first-mobile-app-a5c13b81ff69
-<br>Learn Angular 8 by building a Progressive Web App - **PWA**:
-        <br> ¿Qué es [PWA](https://www.iebschool.com/blog/progressive-web-apps-analitica-usabilidad/)? 
-        <br> PWA usa TLS para cifrado web
-<br>Build an Angular and Spring MVC Web Application
-
 
 ## Javascript Theory
 
@@ -45,9 +40,15 @@
 
 ## Angular
 - https://timdeschryver.dev/blog/auto-focus-a-form-control-with-an-angular-directive
+- Learn Angular 8 by building a Progressive Web App - **PWA**:
+        <br> ¿Qué es [PWA](https://www.iebschool.com/blog/progressive-web-apps-analitica-usabilidad/)? 
+        <br> PWA usa TLS para cifrado web
+<br>Build an Angular and Spring MVC Web Application
+- Herramienta para comprobar optimización de la app: **Lighthouse**
 
 ## BLOGS
 <br> Js... https://dmitripavlutin.com/
+
 <br> ¿What is refactoring? https://www.bmc.com/blogs/code-refactoring-explained/#
 
 <br> Monorrepos: https://medium.com/tauon/trabajando-con-monorepos-cf941c7d57dc
