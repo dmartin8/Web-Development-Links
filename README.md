@@ -35,8 +35,8 @@
 
 - Encontrar un STRING: https://www.neoguias.com/como-encontrar-caracter-en-cadena-javascript/#Usando_el_metodo_includes
 - Eliminar **Repetidos**: https://ajahne.github.io/blog/javascript/2020/02/04/how-to-remove-duplicates-from-an-array-in-javascript.html
-<br> https://medium.com/dailyjs/how-to-remove-array-duplicates-in-es6-5daa8789641c
-<br> https://dev.to/marinamosti/removing-duplicates-in-an-array-of-objects-in-js-with-sets-3fep
+        -- https://medium.com/dailyjs/how-to-remove-array-duplicates-in-es6-5daa8789641c
+        -- https://dev.to/marinamosti/removing-duplicates-in-an-array-of-objects-in-js-with-sets-3fep
 
 ## Angular
 - https://timdeschryver.dev/blog/auto-focus-a-form-control-with-an-angular-directive
