@@ -4,12 +4,12 @@
 ## Rutas de aprendizaje
 <br> **[Web Development Roadmap](https://github.com/kamranahmedse/developer-roadmap)**
 <br> **[UX/UI Roadmap](https://github.com/togiberlin/ui-ux-designer-roadmap)**
-<br> Metodología _Lean UX_: https://www.xplora.eu/metodologia-lean-ux/ 
-<br> _Mobile App Web Stack_: https://medium.com/@zenorocha/the-technology-stack-i-used-to-build-my-first-mobile-app-a5c13b81ff69
+<br> [_Metodología Lean UX_](https://www.xplora.eu/metodologia-lean-ux/) 
+<br> [_Mobile App Web Stack_](https://medium.com/@zenorocha/the-technology-stack-i-used-to-build-my-first-mobile-app-a5c13b81ff69)
 
 ## Javascript Theory
 
-- **SKILLS**: https://hackernoon.com/12-javascript-concepts-that-will-level-up-your-development-skills-b37d16ad7104
+- [**SKILLS**]( https://hackernoon.com/12-javascript-concepts-that-will-level-up-your-development-skills-b37d16ad7104)
 - JAVASCRIPT **ASINCRONO**: https://lemoncode.net/lemoncode-blog/2018/1/29/javascript-asincrono
 - TIPS: https://github.com/nas5w/javascript-tips-and-tidbits
 
