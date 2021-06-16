@@ -22,8 +22,7 @@
 - DIFERENCIAS ENTRE **OBJECT** Y **MAP**: https://medium.com/dailyjs/7-differences-between-objects-and-maps-in-javascript-bc901dfa9350
 
 - API REST **vs** SOAP: https://www.redhat.com/es/topics/integration/whats-the-difference-between-soap-rest#:~:text=REST%20y%20SOAP%20son%20dos,de%20datos%20entre%20aplicaciones%20web.&text=La%20principal%20diferencia%20es%20que,y%20REST%20no%20lo%20es.
-
-    - - https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm
+    - https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm
     
 - **REDUCE()**:  https://medium.com/@xadrijo/un-vistazo-a-la-funci%C3%B3n-reduce-en-javascript-f4459bc4e3aa
 
