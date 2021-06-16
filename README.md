@@ -1,53 +1,24 @@
 # Web-Development-Links
 (Estos son enlaces interesantes en relación a desarrollo web)
 
+## Rutas de aprendizaje
 <br> **[Web Development Roadmap](https://github.com/kamranahmedse/developer-roadmap)**
 <br> **[UX/UI Roadmap](https://github.com/togiberlin/ui-ux-designer-roadmap)**
 <br> Metodología _Lean UX_: https://www.xplora.eu/metodologia-lean-ux/ 
 <br> _Mobile App Web Stack_: https://medium.com/@zenorocha/the-technology-stack-i-used-to-build-my-first-mobile-app-a5c13b81ff69
-
 <br>Learn Angular 8 by building a Progressive Web App - **PWA**:
-        <br>- ¿Qué es [PWA](https://www.iebschool.com/blog/progressive-web-apps-analitica-usabilidad/)? 
-        <br>- PWA usa TLS para cifrado web
-
+        <br> ¿Qué es [PWA](https://www.iebschool.com/blog/progressive-web-apps-analitica-usabilidad/)? 
+        <br> PWA usa TLS para cifrado web
 <br>Build an Angular and Spring MVC Web Application
 
-## TUTORIALES y BLOGS
-<br> Js... https://dmitripavlutin.com/
-<br> ¿What is refactoring? https://www.bmc.com/blogs/code-refactoring-explained/#
-<br>(Eliminar repetidos)
-<br>https://ajahne.github.io/blog/javascript/2020/02/04/how-to-remove-duplicates-from-an-array-in-javascript.html
-<br> https://medium.com/dailyjs/how-to-remove-array-duplicates-in-es6-5daa8789641c
-<br> https://dev.to/marinamosti/removing-duplicates-in-an-array-of-objects-in-js-with-sets-3fep
-
-<br> Monorrepos: https://medium.com/tauon/trabajando-con-monorepos-cf941c7d57dc
-
-<br> https://www.slideshare.net/gootyfer/full-metal-mongo
-
-<br> https://ichi.pro/es/como-disenar-api-rest-usando-express-mongodb-y-typescript-64732424837493
-
-<br> https://carlosazaustre.es/como-crear-una-api-rest-usando-node-js
-<br> https://www.escuelajavascript.com/todo-lo-que-necesitas-saber-de-nodejs/
-
-<br> https://timdeschryver.dev/blog/auto-focus-a-form-control-with-an-angular-directive
-
-<br> fast guide about web APIs: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs
-<br> JS concepts to SKILL: 
-<br>Desestructuración y más
-<br>https://hackernoon.com/12-javascript-concepts-that-will-level-up-your-development-skills-b37d16ad7104   
-<br>:::: :) https://github.com/nas5w/javascript-tips-and-tidbits
-<br>::::::::::::::https://hackernoon.com/node-red-module-for-visual-nodejs-programming-mx3i34j2
-
-<br> https://javascript.plainenglish.io/make-your-ecommerce-app-10x-faster-by-creating-it-with-node-js-c96cfff79a4
 
 ## Javascript Theory
 
-<br> DIFERENCIAS ENTRE OBJECT Y MAP
-<br> https://medium.com/dailyjs/7-differences-between-objects-and-maps-in-javascript-bc901dfa9350
-<br> https://medium.com/dailyjshttps://medium.com/dailyjs
+- DIFERENCIAS ENTRE OBJECT Y MAP: https://medium.com/dailyjs/7-differences-between-objects-and-maps-in-javascript-bc901dfa9350
 
-<br> JAVASCRIPT ASINCRONO:
-<br> https://lemoncode.net/lemoncode-blog/2018/1/29/javascript-asincrono
+- JAVASCRIPT ASINCRONO: https://lemoncode.net/lemoncode-blog/2018/1/29/javascript-asincrono
+- TIPS: https://github.com/nas5w/javascript-tips-and-tidbits
+- SKILLS:
 
 - JS es un lenguaje basado en PROTOTIPOS: https://medium.com/elblogdejavascript/prototipos-y-herencias-b04655d34772
 - OPERADORES: https://www.tektutorialshub.com/typescript/logical-operators-in-typescript/
@@ -68,7 +39,34 @@
 - I/O EXPLICACION: https://lemoncode.net/lemoncode-blog/2018/1/29/javascript-asincrono
 
 - ENCONTRAR EN UN STRING: https://www.neoguias.com/como-encontrar-caracter-en-cadena-javascript/#Usando_el_metodo_includes
+- Eliminar Repetidos: https://ajahne.github.io/blog/javascript/2020/02/04/how-to-remove-duplicates-from-an-array-in-javascript.html
+<br> https://medium.com/dailyjs/how-to-remove-array-duplicates-in-es6-5daa8789641c
+<br> https://dev.to/marinamosti/removing-duplicates-in-an-array-of-objects-in-js-with-sets-3fep
 
+## Angular
+- https://timdeschryver.dev/blog/auto-focus-a-form-control-with-an-angular-directive
+
+## BLOGS
+<br> Js... https://dmitripavlutin.com/
+<br> ¿What is refactoring? https://www.bmc.com/blogs/code-refactoring-explained/#
+
+<br> Monorrepos: https://medium.com/tauon/trabajando-con-monorepos-cf941c7d57dc
+
+<br> Mongo... https://www.slideshare.net/gootyfer/full-metal-mongo
+
+<br> Fast guide about web APIs: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs   
+
+<br> API Express MongoDb y TS: https://ichi.pro/es/como-disenar-api-rest-usando-express-mongodb-y-typescript-64732424837493
+
+<br> API REST: https://carlosazaustre.es/como-crear-una-api-rest-usando-node-js
+
+<br> ¿NodeJS? https://www.escuelajavascript.com/todo-lo-que-necesitas-saber-de-nodejs/
+
+<br>https://hackernoon.com/node-red-module-for-visual-nodejs-programming-mx3i34j2
+
+<br> https://javascript.plainenglish.io/make-your-ecommerce-app-10x-faster-by-creating-it-with-node-js-c96cfff79a4
+
+<br>  https://medium.com/dailyjshttps://medium.com/dailyjs
 
 
 ## BIBLIOGRAFIA
