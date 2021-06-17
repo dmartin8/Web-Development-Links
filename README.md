@@ -45,6 +45,10 @@
 <br>Build an Angular and Spring MVC Web Application
 - Herramienta para comprobar optimización de la app: **Lighthouse**
 
+## RECURSOS FRONT
+- https://cssreference.io/
+- :art: Free visual elements: https://dev.to/bmsteven/5-resources-i-use-as-a-front-end-developer-that-you-probably-need-1odj
+
 ## BLOGS
 <br> Js... https://dmitripavlutin.com/
 <br> ¿What is refactoring? https://www.bmc.com/blogs/code-refactoring-explained/#
@@ -58,7 +62,6 @@
 <br> https://javascript.plainenglish.io/make-your-ecommerce-app-10x-faster-by-creating-it-with-node-js-c96cfff79a4
 <br>  https://medium.com/dailyjshttps://medium.com/dailyjs
 <br> https://midu.dev/
-<br> :art: Free resources Front: https://dev.to/bmsteven/5-resources-i-use-as-a-front-end-developer-that-you-probably-need-1odj
 
 ## BIBLIOGRAFIA
 
