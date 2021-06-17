@@ -46,8 +46,9 @@
 - Herramienta para comprobar optimización de la app: **Lighthouse**
 
 ## RECURSOS FRONT
-- https://cssreference.io/
+- CSS docs: https://cssreference.io/
 - :art: Free visual elements: https://dev.to/bmsteven/5-resources-i-use-as-a-front-end-developer-that-you-probably-need-1odj
+- Animaciones: https://animate.style/
 
 ## BLOGS
 <br> Js... https://dmitripavlutin.com/
