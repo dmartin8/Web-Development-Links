@@ -44,6 +44,7 @@
         - PWA usa TLS para cifrado web
 <br>Build an Angular and Spring MVC Web Application
 - Herramienta para comprobar optimización de la app: **Lighthouse**
+- ValueChanges and others: https://www.concretepage.com/angular/angular-valuechanges-and-statuschanges
 
 ## RECURSOS FRONT
 - CSS docs: https://cssreference.io/
