@@ -45,6 +45,7 @@
 <br>Build an Angular and Spring MVC Web Application
 - Herramienta para comprobar optimización de la app: **Lighthouse**
 - ValueChanges and others: https://www.concretepage.com/angular/angular-valuechanges-and-statuschanges
+https://ultimatecourses.com/blog/difference-change-ngmodelchange-angular
 
 ## RECURSOS FRONT
 - CSS docs: https://cssreference.io/
