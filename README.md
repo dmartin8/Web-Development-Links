@@ -46,6 +46,7 @@
 - Herramienta para comprobar optimización de la app: **Lighthouse**
 - ValueChanges and others: https://www.concretepage.com/angular/angular-valuechanges-and-statuschanges
 https://ultimatecourses.com/blog/difference-change-ngmodelchange-angular
+- Validators: https://ngrefs.com/latest/forms/validators#pattern
 
 ## RECURSOS FRONT
 - CSS docs: https://cssreference.io/
