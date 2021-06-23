@@ -49,6 +49,7 @@ https://ultimatecourses.com/blog/difference-change-ngmodelchange-angular
 - Validators: https://ngrefs.com/latest/forms/validators#pattern
 
 ## RECURSOS FRONT
+- [GRID](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - CSS docs: https://cssreference.io/
 - :art: Free visual elements: https://dev.to/bmsteven/5-resources-i-use-as-a-front-end-developer-that-you-probably-need-1odj
 - Animaciones: https://animate.style/
