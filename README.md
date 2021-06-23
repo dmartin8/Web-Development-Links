@@ -48,6 +48,10 @@
 https://ultimatecourses.com/blog/difference-change-ngmodelchange-angular
 - Validators: https://ngrefs.com/latest/forms/validators#pattern
 
+## React
+- From Angular to [React](https://www.robinwieruch.de/reasons-why-i-moved-from-angular-to-react)
+
+
 ## RECURSOS FRONT
 - [GRID](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - CSS docs: https://cssreference.io/
@@ -70,6 +74,9 @@ https://ultimatecourses.com/blog/difference-change-ngmodelchange-angular
 <br> Pet Project? https://albertot.dev/pet-projects-como-lo-haceis/
 
 ## BIBLIOGRAFIA
+<br> NOW: [Fullstack React Book](https://demo.smarttrainerlms.com/uploads/0003/trainings/course/45/modules/fullstack-react-book-r30_1510302324482009603.pdf)
+<br>(TODO: [take a look](https://medium.com/javarevisited/5-best-react-js-books-for-beginners-and-experienced-web-developers-e7b90b1ab9d2))
+<br>
 
 <br> (Best books...https://www.codeinwp.com/blog/best-javascript-books/)
 <br> High-Performance Browser Networking
