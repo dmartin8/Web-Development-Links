@@ -47,6 +47,7 @@
 - ValueChanges and others: https://www.concretepage.com/angular/angular-valuechanges-and-statuschanges
 https://ultimatecourses.com/blog/difference-change-ngmodelchange-angular
 - Validators: https://ngrefs.com/latest/forms/validators#pattern
+- Validators dfficulties: https://medium.com/ngx/3-ways-to-implement-conditional-validation-of-reactive-forms-c59ed6fc3325
 
 ## React
 - From Angular to [React](https://www.robinwieruch.de/reasons-why-i-moved-from-angular-to-react)
