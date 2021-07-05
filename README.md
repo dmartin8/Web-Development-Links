@@ -59,6 +59,9 @@ https://ultimatecourses.com/blog/difference-change-ngmodelchange-angular
 - :art: Free visual elements: https://dev.to/bmsteven/5-resources-i-use-as-a-front-end-developer-that-you-probably-need-1odj
 - Animaciones: https://animate.style/
 
+## Mongo
+https://charlascylon.com/2013-07-10-tutorial-mongodb-operaciones-de-consulta-avanzadas
+
 ## BLOGS
 <br> Js... https://dmitripavlutin.com/
 <br> ¿What is refactoring? https://www.bmc.com/blogs/code-refactoring-explained/#
