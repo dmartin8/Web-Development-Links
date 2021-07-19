@@ -49,6 +49,7 @@
 https://ultimatecourses.com/blog/difference-change-ngmodelchange-angular
 - Validators: https://ngrefs.com/latest/forms/validators#pattern
 - Conditional Validation: https://medium.com/ngx/3-ways-to-implement-conditional-validation-of-reactive-forms-c59ed6fc3325
+- [Cookies](https://itnext.io/angular-8-how-to-use-cookies-14ab3f2e93fc)
 
 ## React
 - From Angular to [React](https://www.robinwieruch.de/reasons-why-i-moved-from-angular-to-react)
