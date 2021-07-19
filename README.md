@@ -36,6 +36,7 @@
 - Eliminar **Repetidos**: https://ajahne.github.io/blog/javascript/2020/02/04/how-to-remove-duplicates-from-an-array-in-javascript.html
         - https://medium.com/dailyjs/how-to-remove-array-duplicates-in-es6-5daa8789641c
         - https://dev.to/marinamosti/removing-duplicates-in-an-array-of-objects-in-js-with-sets-3fep
+- All posibilities of: **instanceof**
 
 ## Angular
 - https://timdeschryver.dev/blog/auto-focus-a-form-control-with-an-angular-directive
