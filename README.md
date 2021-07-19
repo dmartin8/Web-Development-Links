@@ -79,6 +79,7 @@ https://charlascylon.com/2013-07-10-tutorial-mongodb-operaciones-de-consulta-ava
 <br> https://midu.dev/
 <br> Pet Project? https://albertot.dev/pet-projects-como-lo-haceis/
 <br> Web Assembly: https://pablomagaz.com/blog/empezando-con-webassembly
+<br> Angular GDE: https://fluin.io/blog/how-to-become-an-angular-gde
 
 ## BIBLIOGRAFIA
 <br> NOW: [Fullstack React Book](https://demo.smarttrainerlms.com/uploads/0003/trainings/course/45/modules/fullstack-react-book-r30_1510302324482009603.pdf)
