@@ -1,5 +1,4 @@
 # Web-Development-Links
-(Estos son enlaces interesantes en relación a desarrollo web)
 
 ## Rutas de aprendizaje
 <br> **[Web Development Roadmap](https://github.com/kamranahmedse/developer-roadmap)**
