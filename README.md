@@ -38,6 +38,7 @@
 - All posibilities of: **instanceof**
 
 ## Angular
+- [ngModel](https://www.acontracorrientech.com/angular-entendiendo-la-ngmodel-directive/)
 - https://timdeschryver.dev/blog/auto-focus-a-form-control-with-an-angular-directive
 - Learn Angular 8 by building a Progressive Web App - **PWA**:
         - ¿Qué es [PWA](https://www.iebschool.com/blog/progressive-web-apps-analitica-usabilidad/)? 
