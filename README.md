@@ -38,7 +38,7 @@
 - All posibilities of: **instanceof**
 
 ## Angular
-- [TwoWayBinding](https://www.acontracorrientech.com/guia-practica-del-databinding-en-angular/#tab-con-3)
+- [Two Way Data Binding](https://www.acontracorrientech.com/guia-practica-del-databinding-en-angular/#tab-con-3)
 - [ngModel](https://www.acontracorrientech.com/angular-entendiendo-la-ngmodel-directive/)
 - https://timdeschryver.dev/blog/auto-focus-a-form-control-with-an-angular-directive
 - Learn Angular 8 by building a Progressive Web App - **PWA**:
