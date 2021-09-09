@@ -40,7 +40,7 @@
 ## Angular
 - [Two Way Data Binding](https://www.acontracorrientech.com/guia-practica-del-databinding-en-angular/#tab-con-3)
 - [ngModel](https://www.acontracorrientech.com/angular-entendiendo-la-ngmodel-directive/)
-- https://timdeschryver.dev/blog/auto-focus-a-form-control-with-an-angular-directive
+- [auto-focus](https://timdeschryver.dev/blog/auto-focus-a-form-control-with-an-angular-directive)
 - Learn Angular 8 by building a Progressive Web App - **PWA**:
         - ¿Qué es [PWA](https://www.iebschool.com/blog/progressive-web-apps-analitica-usabilidad/)? 
         - PWA usa TLS para cifrado web
@@ -51,6 +51,7 @@ https://ultimatecourses.com/blog/difference-change-ngmodelchange-angular
 - Validators: https://ngrefs.com/latest/forms/validators#pattern
 - Conditional Validation: https://medium.com/ngx/3-ways-to-implement-conditional-validation-of-reactive-forms-c59ed6fc3325
 - [Cookies](https://itnext.io/angular-8-how-to-use-cookies-14ab3f2e93fc)
+- [Graphics](https://valor-software.com/ng2-charts/#/DoughnutChart)
 
 ## React
 - From Angular to [React](https://www.robinwieruch.de/reasons-why-i-moved-from-angular-to-react)
