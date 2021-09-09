@@ -1,11 +1,5 @@
 # Web-Development-Links
 
-## Rutas de aprendizaje
-<br> **[Web Development Roadmap](https://github.com/kamranahmedse/developer-roadmap)**
-<br> **[UX/UI Roadmap](https://github.com/togiberlin/ui-ux-designer-roadmap)**
-<br> [_Metodología Lean UX_](https://www.xplora.eu/metodologia-lean-ux/) 
-<br> [_Mobile App Web Stack_](https://medium.com/@zenorocha/the-technology-stack-i-used-to-build-my-first-mobile-app-a5c13b81ff69)
-
 ## Javascript Theory
 
 - [**SKILLS**]( https://hackernoon.com/12-javascript-concepts-that-will-level-up-your-development-skills-b37d16ad7104)
@@ -82,6 +76,12 @@ https://charlascylon.com/2013-07-10-tutorial-mongodb-operaciones-de-consulta-ava
 <br> Pet Project? https://albertot.dev/pet-projects-como-lo-haceis/
 <br> Web Assembly: https://pablomagaz.com/blog/empezando-con-webassembly
 <br> Angular GDE: https://fluin.io/blog/how-to-become-an-angular-gde
+
+## Rutas de aprendizaje
+<br> **[Web Development Roadmap](https://github.com/kamranahmedse/developer-roadmap)**
+<br> **[UX/UI Roadmap](https://github.com/togiberlin/ui-ux-designer-roadmap)**
+<br> [_Metodología Lean UX_](https://www.xplora.eu/metodologia-lean-ux/) 
+<br> [_Mobile App Web Stack_](https://medium.com/@zenorocha/the-technology-stack-i-used-to-build-my-first-mobile-app-a5c13b81ff69)
 
 ## BIBLIOGRAFIA
 <br> NOW: [Fullstack React Book](https://demo.smarttrainerlms.com/uploads/0003/trainings/course/45/modules/fullstack-react-book-r30_1510302324482009603.pdf)
