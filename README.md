@@ -57,6 +57,9 @@ https://ultimatecourses.com/blog/difference-change-ngmodelchange-angular
 - :art: Free visual elements: https://dev.to/bmsteven/5-resources-i-use-as-a-front-end-developer-that-you-probably-need-1odj
 - Animaciones: https://animate.style/
 
+## MySQL
+TODO:
+
 ## Mongo
 https://charlascylon.com/2013-07-10-tutorial-mongodb-operaciones-de-consulta-avanzadas
 
