@@ -63,6 +63,9 @@ TODO:
 ## Mongo
 https://charlascylon.com/2013-07-10-tutorial-mongodb-operaciones-de-consulta-avanzadas
 
+## Laravel
+ - [Manual](https://desarrolloweb.com/manuales/manual-laravel-5.html)
+
 ## BLOGS
 <br> Js... https://dmitripavlutin.com/
 <br> ¿What is refactoring? https://www.bmc.com/blogs/code-refactoring-explained/#
