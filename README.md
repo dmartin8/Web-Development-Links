@@ -103,3 +103,5 @@ https://charlascylon.com/2013-07-10-tutorial-mongodb-operaciones-de-consulta-ava
 <br> **Refactoring: Improving the Design of Existing Code**, 2nd Edition https://ajahne.github.io/blog/javascript/books/2019/09/15/most-referenced-refactorings-martin-fowler-nodejs-pdfjs-chartjs.html
 <br> **Design Patterns**: Elements of Reusable Object-Oriented Software
 <br> Books: https://github.com/twhite96/js-dev-reads#things-to-think-about-thinking
+<br> **LINUX**
+<br> How Linux Works : What Every Superuser Should Know
