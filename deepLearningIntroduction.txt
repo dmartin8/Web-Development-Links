@@ -1,0 +1,36 @@
+Conoce a los instructores del curso de Deep Learning
+Hola,
+
+¡Espero que estés disfrutando el curso hasta ahora!
+
+¡Recientemente, Hadelin y Kirill hicieron su segundo podcast juntos! Estan muy emocionados de compartirlo contigo porque está enfocado en el aprendizaje profundo. ¡Escucha este episodio para obtener una vista panorámica de lo que puedes esperar en este curso!
+
+http://superdatascience.com/47
+
+Algunas de las cosas que aprenderás en este podcast:
+
+Redes neuronales artificiales (ANN) (06:45)
+
+¿Por qué el aprendizaje profundo en lugar del aprendizaje automático? (09:10)
+
+Redes neuronales convolucionales (CNN) y sus aplicaciones (18:55)
+
+Redes neuronales recurrentes (RNN) y sus aplicaciones (23:48)
+
+Memoria a corto y largo plazo en RNN (LSTM) (27:57)
+
+Diferencias entre el aprendizaje profundo supervisado y no supervisado (29:47)
+
+Mapas autoorganizados (SOM) y cómo funcionan (31:11)
+
+Todo sobre las máquinas Boltzmann (40:23)
+
+Autoencoders y sus aplicaciones (46:27)
+
+TensorFlow o PyTorch? (51:45)
+
+
+
+¡Te veo en clases!
+
+Juan Gabriel Gomila
