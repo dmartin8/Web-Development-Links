@@ -109,3 +109,7 @@ https://charlascylon.com/2013-07-10-tutorial-mongodb-operaciones-de-consulta-ava
 
 ### **Cybersecurity**
 - 8 en https://ciberninjas.com/14-mejores-sitios-aprender-hackear/
+
+
+### Trucos
+- n8n para preproyecto
